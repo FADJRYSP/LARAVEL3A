@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>DATA PRODUK</h1>
+    <h1>DATA BARANG</h1>
     <a href="{{ route('products.create') }}">Tambah produk </a>
 
     <table border="1">
